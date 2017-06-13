@@ -69,3 +69,6 @@ class TicTacToe
 
 
 end
+
+
+TicTacToe.new_game
