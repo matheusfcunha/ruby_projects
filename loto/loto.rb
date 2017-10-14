@@ -30,4 +30,4 @@ def sena(numeros)
     end
 end
 
-sena([16,25,32,44,48,57,])
+sena([3,14,15,9,26,53])
