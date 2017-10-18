@@ -1,0 +1,11 @@
+--2017-10-17 22:43:12--  https://api.telegram.org/file/bot429734547:AAF-T03jlfI-3wgNPe0f1tuF-jokMQXiwbI/photos/file_85.jpg
+Resolving api.telegram.org (api.telegram.org)... 149.154.167.200, 149.154.167.199, 149.154.167.197, ...
+Connecting to api.telegram.org (api.telegram.org)|149.154.167.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15850 (15K) [application/octet-stream]
+Saving to: ‘289762255.jpg’
+
+     0K .......... .....                                      100%  384M=0s
+
+2017-10-17 22:43:14 (384 MB/s) - ‘289762255.jpg’ saved [15850/15850]
+
